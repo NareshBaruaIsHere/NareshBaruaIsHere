@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naresh Barua</h1>
+<h1 align="center">Hey, Naresh Barua is here.</h1>
 <h3 align="center">A passionate Web Developer, Competitive Programmer, Graphic Designer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nareshbaruaishere&label=Profile%20views&color=0e75b6&style=flat" alt="nareshbaruaishere" /> </p>
