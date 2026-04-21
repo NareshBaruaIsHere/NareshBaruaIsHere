@@ -6,8 +6,11 @@
 
 ## 🖐️ About Me
 - My full name is **Naresh Barua** <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
+- 👨‍💻 Developer name: **𝗜𝗳𝗘𝗹𝘀𝗲𝗚𝗵𝗼𝘀𝘁**
 - My major is **Full-stack Development**
 - Primary Focus: **Google Cloud Platform (GCP)**—designing scalable and secure architectures.
+- 💬 Ask me about **Web Development, Competitive Programming, Android App Development, Graphic Design**
+- 📫 How to reach me: **nareshbarua72@gmail.com**
 - I'm interested in coding, sleeping, and watching film
 - My quote is ***"It's never too late - never too late to start over, never too late to be happy"***
 
@@ -15,6 +18,8 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NareshBaruaIsHere)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nareshbarua72@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nareshbarua72/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/naresh_barua)
 
 ## 🛠️ Tech Stack & Tools
 
