@@ -1,7 +1,7 @@
 <div align="left">
       <img src="https://komarev.com/ghpvc/?username=NareshBaruaIsHere&label=Profile%20views&color=0e75b6&style=flat" alt="NareshBaruaIsHere" />
-      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/NareshBaruaIsHere?style=social"> 
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/NareshBaruaIsHere?style=social">
+      <!-- <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/NareshBaruaIsHere?style=social">  -->
+      <!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/NareshBaruaIsHere?style=social"> -->
 </div>
 
 ## 🖐️ About Me
