@@ -33,4 +33,4 @@
 </picture>
 
 ##
-> 💬 _Always open to meaningful conversations, tech collaboration, and exploring new ideas._
+<!-- > 💬 _Always open to meaningful conversations, tech collaboration, and exploring new ideas._ -->
