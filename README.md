@@ -31,5 +31,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NareshBaruaIsHere/NareshBaruaIsHere/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NareshBaruaIsHere/NareshBaruaIsHere/output/pacman-contribution-graph.svg">
 </picture>
-##
+
 <!-- > 💬 _Always open to meaningful conversations, tech collaboration, and exploring new ideas._ -->
