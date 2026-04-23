@@ -6,7 +6,7 @@
 
 ## 🖐️ About Me
 - My full name is **Naresh Barua** <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
-- 👨‍💻 Developer name: **𝗜𝗳𝗘𝗹𝘀𝗲𝗚𝗵𝗼𝘀𝘁**
+- Developer name: **𝗜𝗳𝗘𝗹𝘀𝗲𝗚𝗵𝗼𝘀𝘁**
 - My major is **Full-stack Development**
 - Primary Focus: **Google Cloud Platform (GCP)**—designing scalable and secure architectures.
 - 💬 Ask me about **Web Development, Competitive Programming, Android App Development, Graphic Design**
