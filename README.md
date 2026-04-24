@@ -9,8 +9,8 @@
 - Developer name: **𝗜𝗳𝗘𝗹𝘀𝗲𝗚𝗵𝗼𝘀𝘁**
 - My major is **Full-stack Development**
 - Primary Focus: **Google Cloud Platform (GCP)**—designing scalable and secure architectures.
-- 💬 Ask me about **Web Development, Competitive Programming, Android App Development, Graphic Design**
-- 📫 How to reach me: **nareshbarua72@gmail.com**
+- Ask me about **Web Development, Competitive Programming, Android App Development, Graphic Design**
+- How to reach me: **nareshbarua72@gmail.com**
 - I'm interested in coding, sleeping, and watching film
 - My quote is ***"It's never too late - never too late to start over, never too late to be happy"***
 
