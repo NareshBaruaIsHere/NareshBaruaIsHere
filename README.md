@@ -6,9 +6,6 @@
 
 ## 🖐️ About Me
 - My full name is **Naresh Barua** <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
-<img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm42OWdqdnh6czFlZzlwc2p4ZzUwM2hkNzI4cTEwejhqN2Y3MmZidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif)" width="120" align="right"/>
-
-
 - Developer name: **𝗜𝗳𝗘𝗹𝘀𝗲𝗚𝗵𝗼𝘀𝘁**
 - My major is **Full-stack Development**
 - Primary Focus: **Google Cloud Platform (GCP)**—designing scalable and secure architectures.
